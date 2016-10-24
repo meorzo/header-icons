@@ -61,6 +61,10 @@ nav li:hover {
   background-color: #a63f38;
 }
 
+nav a:hover {
+  background-color: #a63f38;
+}
+
 body {
   padding: 0;
   margin: 0;
