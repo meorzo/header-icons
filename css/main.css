@@ -29,14 +29,12 @@ header {
 h1 {
   text-align: center;
   color: #fff;
-  margin: .3em;
-  padding: 0;
+  margin: 0;
   font-size: 2rem;
 }
 
 nav li {
   color: #fff;
-  margin: 0;
   display: inline;
   border: 1px solid #a63f38;
   float: left;
@@ -59,7 +57,7 @@ nav ul {
   margin: 0;
 }
 
-nav a:hover {
+nav li:hover {
   background-color: #a63f38;
 }
 
